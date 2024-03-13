@@ -1,4 +1,4 @@
-package com.whz.archetype.web;
+package com.whz;
 
 import org.springframework.web.bind.annotation.*;
 
